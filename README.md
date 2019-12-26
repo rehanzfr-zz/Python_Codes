@@ -6,4 +6,4 @@
 
 1- Github Related Python Codes
 
-2- Generation of graphs.
+2- AutoTyper
