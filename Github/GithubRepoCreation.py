@@ -5,6 +5,8 @@ import tkinter as tk
 from tkinter import filedialog
 import shutil
 
+# Code can be run as: 
+#python GithubRepoCreation.py R Folder
 
 # Path to Projects in Github
 Defaultpath = "E:\\FINAL_PYTHON_PROGRAMS\\"
