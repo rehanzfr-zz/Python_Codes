@@ -40,7 +40,7 @@ def mistake(chra):
 
 def main():
     # New File read as list.
-    filename= "E:\\Mega\\Github\\Scatterplot\\1_plot.r"
+    filename= "E:\\FINAL_CODES\\R_Codes\\Plots\\3Dscatterplot.R"
     with open(filename) as f:
         lines = f.readlines()
     print(lines)    
